@@ -1,3 +1,4 @@
+Here's a quick summary about me:
 - 👋 Hi, I’m @Ihuoma56
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning backend track @Altschool Africa
